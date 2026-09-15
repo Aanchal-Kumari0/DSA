@@ -1,31 +1,57 @@
 # DSA Problem Solving
 
-A collection of Data Structures and Algorithms problems
-solved in multiple programming languages.
+A collection of Data Structures and Algorithms problems solved in
+C, C++, Python, and Java.
 
-## Languages
+## 📚 Topics
+
+- 01-Basics
+- 02-Arrays
+- 03-Strings
+- 04-Linked-List
+- 05-Stack
+- 06-Queue
+- 07-Recursion
+- 08-Sorting
+- 09-Binary-Search
+- 10-Hashing
+- 11-Trees
+- 12-BST
+- 13-Heap
+- 14-Graphs
+- 15-Greedy
+- 16-Dynamic-Programming
+- 17-Backtracking
+
+## 💻 Languages
 
 - C
 - C++
 - Python
 - Java
 
-## Topics
+## 🎯 Purpose
 
-1. Basics
-2. Arrays
-3. Strings
-4. Linked List
-5. Stack
-6. Queue
-7. Recursion
-8. Sorting
-9. Binary Search
-10. Hashing
-11. Trees
-12. BST
-13. Heap
-14. Graphs
-15. Greedy
-16. Dynamic Programming
-17. Backtracking
+This repository contains my practice and implementations
+of Data Structures and Algorithms concepts and problems.
+
+## 📁 Repository Structure
+
+```text
+DSA/
+├── C/
+│   ├── 01-Basics/
+│   ├── 02-Arrays/
+│   └── ...
+├── CPP/
+│   ├── 01-Basics/
+│   ├── 02-Arrays/
+│   └── ...
+├── Python/
+│   ├── 01-Basics/
+│   ├── 02-Arrays/
+│   └── ...
+└── Java/
+    ├── 01-Basics/
+    ├── 02-Arrays/
+    └── ...
